@@ -3,6 +3,10 @@
     gap: 0.75rem;
 }
 
+.LogoSearch img {
+    width: 55px;
+}
+
 .Search{
     display: flex;
     background-color: var(--inputColor);
